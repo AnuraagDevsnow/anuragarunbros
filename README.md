@@ -2,9 +2,6 @@
 
 A simple, interactive web tool designed to calculate interest on money and percentage breakdowns instantly. Built with HTML and JavaScript, and hosted live via GitHub Pages.
 
-## Live Demo
-Check out the live micro-tool here: [GitHub Pages Link]
-
 ## Features
 * Instant calculation of simple and compound interest.
 * Real-time percentage breakdowns.
